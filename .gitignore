@@ -1,0 +1,11 @@
+# Node
+Site Ecommerce/**/node_modules
+Site Ecommerce/**/.env
+
+# Laravel
+gestion_stock - Copie/vendor
+gestion_stock - Copie/.env
+
+# Other
+.DS_Store
+.env
